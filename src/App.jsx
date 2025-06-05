@@ -3,11 +3,11 @@ import { Route, Routes } from 'react-router-dom'
 
 import './App.css'
 
-import Home from './pages/Home'
 import CaptainRegister from './pages/CaptainRegister'
 import CaptainLogin from './pages/CaptainLogin'
 import UserRegister from './pages/UserRegister'
 import UserLogin from './pages/UserLogin'
+import Home from './pages/Home'
 
 function App() {
 
